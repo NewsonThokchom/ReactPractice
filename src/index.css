@@ -108,3 +108,20 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found {
+  text-align: center;
+  background-color: #f7f7f7;
+  padding: 5em 0px 5em 0;
+}
+
+.not-found h2 {
+  margin-bottom: 1em;
+}
+
+.not-found p {
+  margin-bottom: 1em;
+}
+.not-found .link {
+  color: #f1356d;
+}
